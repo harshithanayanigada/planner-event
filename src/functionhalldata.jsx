@@ -1,0 +1,14 @@
+const functionHallData = [
+    { id: 1, image: 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/grand-hotel-logo-design-template-50c7255579b1e9df6d8bae41f78889c1_screen.jpg?ts=1611148225', name: 'Hotel Grand', description: 'A spacious hall ideal for large events and gatherings.', detailsLink: '/hall-details' },
+    { id: 2, image: 'https://tse4.mm.bing.net/th?id=OIP.8_1_TQjjwn1-wFCRy_FiGgHaFj&pid=Api&P=0&h=220', name: 'Aurora', description: 'An elegant venue for your sophisticated events.', detailsLink: '/hall-details' },
+    { id: 3, image: 'https://img.freepik.com/free-vector/letter-r-royal-luxury-logo-your-brand_1017-27683.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1726272000&semt=ais_hybrid', name: 'Royal Space', description: 'Experience luxury with our royal function space.', detailsLink: '/hall-details' },
+    { id: 4, image: 'https://img.freepik.com/premium-vector/garden-logo-vector_848918-13537.jpg', name: 'Garden Pavilion', description: 'Charming outdoor space for a unique and memorable event.', detailsLink: '/hall-details' },
+    { id: 5, image: 'https://biz.prlog.org/CityView/logo.jpg', name: 'City View Hall', description: 'A modern hall with stunning views of the city skyline.', detailsLink: '/hall-details' },
+    { id: 6, image: 'https://tse2.mm.bing.net/th?id=OIP.C5NlePLMk45JNslm2VjmewAAAA&pid=Api&P=0&h=220', name: 'Banquet Bliss', description: 'Perfect for weddings and grand celebrations.', detailsLink: '/hall-details' },
+    { id: 7, image: 'https://tse3.mm.bing.net/th?id=OIP.g75Gw9reUsBH_Gbxy10XvAAAAA&pid=Api&P=0&h=220', name: 'The Grand Ballroom', description: 'An expansive ballroom for large parties and receptions.', detailsLink: '/hall-details' },
+    { id: 8, image: 'https://tse3.mm.bing.net/th?id=OIP.UD63tehlPlIg1ugpA11COQHaHy&pid=Api&P=0&h=220', name: 'Luxury Lounge', description: 'A sophisticated lounge for intimate gatherings.', detailsLink: '/hall-details' },
+    { id: 9, image: 'https://tse2.mm.bing.net/th?id=OIP.JayVfy01HNHlPiA9thbwrAAAAA&pid=Api&P=0&h=220', name: 'Cozy Corner Hall', description: 'A warm and inviting space for small events.', detailsLink: '/hall-details' },
+    { id: 10, image: 'https://tse1.mm.bing.net/th?id=OIP.YR23ObXbHW86k3ssJo9ELwHaHa&pid=Api&P=0&h=220', name: 'Seaside Venue', description: 'A picturesque venue by the sea, perfect for outdoor weddings.', detailsLink: '/hall-details' },
+    { id: 11, image: 'https://tse2.mm.bing.net/th?id=OIP.QyZvdVcmPZ01zkVK8JKddwAAAA&pid=Api&P=0&h=220', name: 'Heritage Hall', description: 'Experience the charm of history in a beautiful setting.', detailsLink: '/hall-details' },
+    { id: 12, image: 'https://tse4.mm.bing.net/th?id=OIP.6-osWWFpuDtUt4RfdNSIRAHaFj&pid=Api&P=0&h=220', name: 'Imperal Hotel', description: 'A rooftop venue with breathtaking views for your special events.', detailsLink: '/hall-details' },
+  ];
